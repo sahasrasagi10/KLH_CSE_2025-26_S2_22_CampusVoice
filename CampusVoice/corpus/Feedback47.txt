@@ -1,0 +1,5 @@
+The college should upgrade networking equipment in laboratories.
+Some lab systems have slow network connections.
+Network switches should be maintained properly.
+Students need stable internet during practical sessions.
+The laboratory network should support all connected systems.
