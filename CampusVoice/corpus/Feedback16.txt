@@ -1,6 +1,0 @@
-The attendance system should be updated immediately after classes.
-Sometimes attendance records are not updated on time.
-Students should be able to check their attendance online.
-There should be a simple process for reporting attendance errors.
-Biometric attendance can reduce manual mistakes.
-Students should receive regular information about their attendance percentage.
