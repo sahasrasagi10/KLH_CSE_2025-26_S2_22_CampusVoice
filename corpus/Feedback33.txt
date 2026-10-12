@@ -1,1 +1,0 @@
-Students should receive notifications when classrooms are changed for a lecture.
