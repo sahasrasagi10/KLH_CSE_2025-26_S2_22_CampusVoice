@@ -1,0 +1,1 @@
+Class representatives should have a standard channel for communicating urgent notices.

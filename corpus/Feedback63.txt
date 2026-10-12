@@ -1,0 +1,1 @@
+Administrative counters should display estimated processing times for common requests.
